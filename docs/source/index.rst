@@ -3,12 +3,15 @@ FTC Resources
 
 .. note::
 
-   This project is under active development!
+  This project is under active development!
 
-   If you would like to contribute, please submit a pull request to our `GitHub
-   repo <https://github.com/FTC-Goodies/All-Goodies>`_.
+  If you would like to contribute, please submit an issue or pull request to our `GitHub repo <https://github.com/FTC-Goodies/All-Goodies>`_.
 
-This site contains a curated list of resources that FTC teams of all skill levels can benefit from. This is not an official resource, it has been put together by community members who have found these resources to be incredibly helpful.
+The site is intended to be a comprehensive list of curated resources for FTC teams of all skill levels. The site does not contain any information of its own (except for brief primer information about each topic). Instead, many links are provided to other resources that contain the relevant information.
+
+.. note::
+
+  This is not an official site! It has been put together by community members who have found these resources to be incredibly helpful. We have done our best to evaluate each resource, however since we have no control over them, it's possible that some contain incorrect information, or inappropriate content. 
 
 General Resources
 ********************************************************************************
@@ -17,11 +20,19 @@ The links below contain lots of useful information on many topics.
 
 * `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/index.html>`_
 
-  * Official documentation by FTC
+  * Official documentation from FTC.
 
-* `Game Manual Zero <https://gm0.org/en/latest/>`_
+* `FTC Game & Season Materials <https://www.firstinspires.org/resource-library/ftc/game-and-season-info>`_
 
-  * Unofficial documentation by community
+  * Official resource links from FTC.
+
+* `Game Manual Zero (GM0) <https://gm0.org/en/latest/>`_
+
+  * Documentation from community.
+
+* `GM0 Resources <https://gm0.org/en/latest/docs/useful-resources.html>`_
+
+  * Another list of resources from GM0.
 
 Resources by Category
 ********************************************************************************
@@ -32,5 +43,5 @@ These link to other pages on this site, each of which contain many resources for
    :maxdepth: 1
    
    hardware
-   programming
    control_system
+   programming
