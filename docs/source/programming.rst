@@ -12,15 +12,15 @@ General Resources
 
 The resources below each cover a wide range of topics.
 
-* `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html>`_
+* `FTC Docs - Programming Resources <https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html>`_
 
   * Official programming information from FTC.
 
 * `FTC SDK Repository <https://github.com/FIRST-Tech-Challenge/FtcRobotController/>`_
 
-  * Official repository for FTC Robot Controller app. Teams using Android Studio should fork this repo for development.
+  * Official repository for the FTC Robot Controller app. Teams using Android Studio should fork this repo for development.
 
-* `Game Manual Zero <https://gm0.org/en/latest/docs/software/index.html>`_
+* `Game Manual Zero (GM0) - Software <https://gm0.org/en/latest/docs/software/index.html>`_
 
   * Programming information and tutorials from GM0
 
@@ -37,21 +37,21 @@ The resources below each cover a wide range of topics.
 
 ..   * A group who make tools and resources for FTC teams.
 
-Languages
+Programming Tools
 ********************************************************************************
 
-FTC has 3 main programming options for teams: Blocks, OnBot Java, and Android Studio. Resources for each have been separated below.
+FTC has 3 main programming tools for teams: Blocks, OnBot Java, and Android Studio. Resources for each have been separated below.
 
 Blocks
 ================================================================================
 
 Blocks is a visual programming interface that runs in a web browser. It is targetted towards rookies who prefer to create code visually.
 
-* `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/programming_resources/blocks/Blocks-Tutorial.html>`_
+* `FTC Docs - Blocks Tutorial <https://ftc-docs.firstinspires.org/en/latest/programming_resources/blocks/Blocks-Tutorial.html>`_
 
   * Official Blocks tutorial from FTC.
 
-* `Blocks YouTube Playlist  <https://www.youtube.com/playlist?list=PLEuGrYl8iBm4A4yrRcatGcK7q0od0LYov>`_
+* `Blocks YouTube Tutorial Playlist  <https://www.youtube.com/playlist?list=PLEuGrYl8iBm4A4yrRcatGcK7q0od0LYov>`_
 
   * Official Blocks video tutorials from FTC.
 
@@ -60,11 +60,11 @@ OnBot Java
 
 OnBot Java is a text-based programming interface that runs in a web browser.  It is targetted towards rookies who prefer to create code using Java.
 
-* `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/programming_resources/onbot_java/OnBot-Java-Tutorial.html>`_
+* `FTC Docs - OnBot Java Tutorial <https://ftc-docs.firstinspires.org/en/latest/programming_resources/onbot_java/OnBot-Java-Tutorial.html>`_
 
   * Official OnBot Java tutorial from FTC.
 
-* `Examples <https://github.com/FIRST-Tech-Challenge/FtcRobotController/tree/master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples>`_
+* `FTC SDK - Java Example OpModes <https://github.com/FIRST-Tech-Challenge/FtcRobotController/tree/master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples>`_
 
   * Official example OpModes from FTC.
 
@@ -73,11 +73,11 @@ Android Studio
 
 `Android Studio <https://developer.android.com/studio>`_ is an integrated development environment (IDE) that runs on a computer. It is targetted towards those who prefer to create code using Java, and benefit from the advanced features offered by a professional IDE.
 
-* `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/programming_resources/android_studio_java/Android-Studio-Tutorial.html>`_
+* `FTC Docs - Android Studio Tutorial <https://ftc-docs.firstinspires.org/en/latest/programming_resources/android_studio_java/Android-Studio-Tutorial.html>`_
 
   * Official Android Studio tutorial from FTC.
 
-* `Examples <https://github.com/FIRST-Tech-Challenge/FtcRobotController/tree/master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples>`_
+* `FTC SDK - Java Example OpModes <https://github.com/FIRST-Tech-Challenge/FtcRobotController/tree/master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples>`_
 
   * Official example OpModes from FTC.
 
@@ -91,7 +91,7 @@ Telemetry
 
 Telemetry is used to send information from the Robot Controller to the Driver Station.
 
-* `Game Manual Zero <https://gm0.org/en/latest/docs/software/tutorials/using-telemetry.html>`_
+* `GM0 - Using Telemetry <https://gm0.org/en/latest/docs/software/tutorials/using-telemetry.html>`_
 
   * Information from GM0 about telemtry.
 
@@ -100,7 +100,7 @@ Gamepads
 
 Gamepads are controllers that plug into the Driver Station, and are typically used to control the robot during TeleOp.
 
-* `Game Manual Zero <https://gm0.org/en/latest/docs/software/tutorials/gamepad.html>`_
+* `GM0 - Gamepad Usage <https://gm0.org/en/latest/docs/software/tutorials/gamepad.html>`_
 
   * Information from GM0 about gamepads.
 
@@ -109,11 +109,11 @@ Motors
 
 Motors are electromechanical devices that spin when powered. They're typically used to drive wheels or move actuators.
 
-* FTC Docs (`Blocks <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/blocks/creating_op_modes/Writing-an-Op-Mode-with-FTC-Blocks.html#controlling-a-dc-motor>`_) (`OnBot Java <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/onbot_java/creating_op_modes/Creating-and-Running-an-Op-Mode-%28OnBot-Java%29.html#modifying-your-op-mode-to-control-a-motor>`_) (`Android Studio <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/creating_op_modes/Creating-and-Running-an-Op-Mode-%28Android-Studio%29.html#modifying-your-op-mode-to-control-a-motor>`_)
+* FTC Docs - Motor Tutorials (`Blocks <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/blocks/creating_op_modes/Writing-an-Op-Mode-with-FTC-Blocks.html#controlling-a-dc-motor>`_) (`OnBot Java <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/onbot_java/creating_op_modes/Creating-and-Running-an-Op-Mode-%28OnBot-Java%29.html#modifying-your-op-mode-to-control-a-motor>`_) (`Android Studio <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/creating_op_modes/Creating-and-Running-an-Op-Mode-%28Android-Studio%29.html#modifying-your-op-mode-to-control-a-motor>`_)
 
   * Official information from FTC about motors.
 
-* `Game Manual Zero <https://gm0.org/en/latest/docs/software/getting-started/common-hardware-components.html#dc-motor>`_
+* `GM0 - DC Motors <https://gm0.org/en/latest/docs/software/getting-started/common-hardware-components.html#dc-motor>`_
 
   * Information from GM0 about motors.
 
@@ -122,7 +122,11 @@ Servos
 
 Servos are electromechanical devices that spin when powered. In contrast to motors, they usually have positional feedback control built-in, and are typically used for smaller actuators.
 
-* `Game Manual Zero <https://gm0.org/en/latest/docs/software/getting-started/common-hardware-components.html#servo>`_
+* FTC Docs - Servo Tutorials (`Blocks <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/blocks/controlling_a_servo/Controlling-a-Servo-%28Blocks%29.html>`_) (`OnBot Java <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/onbot_java/controlling_a_servo/Controlling-a-Servo-%28OnBot-Java%29.html>`_) (`Android Studio <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/controlling_a_servo/Controlling-a-Servo-%28Android-Studio%29.html>`_)
+
+  * Official information from FTC about servos.
+
+* `GM0 - Servos <https://gm0.org/en/latest/docs/software/getting-started/common-hardware-components.html#servo>`_
 
   * Information from GM0 about servos.
 
@@ -134,11 +138,7 @@ Sensors are devices that measure physical properties of an environment. Resource
 Encoders
 ================================================================================
 
-* FTC Docs (`Blocks <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/blocks/controlling_a_servo/Controlling-a-Servo-%28Blocks%29.html>`_) (`OnBot Java <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/onbot_java/controlling_a_servo/Controlling-a-Servo-%28OnBot-Java%29.html>`_) (`Android Studio <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/controlling_a_servo/Controlling-a-Servo-%28Android-Studio%29.html>`_)
-
-  * Official information from FTC about encoders.
-
-* `Game Manual Zero <https://gm0.org/en/latest/docs/software/getting-started/common-hardware-components.html#encoders>`_
+* `GM0 - Encoders <https://gm0.org/en/latest/docs/software/getting-started/common-hardware-components.html#encoders>`_
 
   * Information from GM0 about encoders.
 
@@ -147,7 +147,7 @@ IMU
 
 Inertial measurement units (IMU) are sensors that measure motion. They typically (but not always) include an accelerometer, gyroscope, and magnetometer. The Control Hubs (and older Expansion Hubs) have IMUs built-in
 
-* `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/programming_resources/imu/imu.html>`_
+* `FTC Docs - Universal IMU Interface <https://ftc-docs.firstinspires.org/en/latest/programming_resources/imu/imu.html>`_
 
   * Official information from FTC about IMUs.
 
@@ -170,7 +170,7 @@ Cameras may be attached to robots for more advanced sensing capabilities. Genera
 .. warning:: 
   The 2023-2024 season has a lot of changes to vision! It appears that Vuforia has been removed, and is effectively replaced by EasyOpenCV and AprilTags. The resources below all contain current information, but other resources you find may be outdated or incorrect!
 
-* `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/apriltag/vision_portal/visionportal_overview/visionportal-overview.html>`_
+* `FTC Docs - VisionPortal Overview <https://ftc-docs.firstinspires.org/en/latest/apriltag/vision_portal/visionportal_overview/visionportal-overview.html>`_
 
   * Official information from FTC about vision.
 
@@ -182,7 +182,7 @@ AprilTags
 
 `AprilTags <https://april.eecs.umich.edu/software/apriltag>`_ are images that can be used for identificaiton and navigation. Software on the Robot Controller automatically identifies the AprilTags, and provides information about them.
 
-* `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/apriltag/vision_portal/apriltag_intro/apriltag-intro.html>`_
+* `FTC Docs - AprilTag Introduction <https://ftc-docs.firstinspires.org/en/latest/apriltag/vision_portal/apriltag_intro/apriltag-intro.html>`_
 
   * Official information from FTC about AprilTags.
 
@@ -203,11 +203,11 @@ TensorFlow
 
 `TensorFlow <https://www.tensorflow.org/lite/>`_ is a software library that uses machine learning to identify objects and patterns in images.
 
-* `FTC Docs (Power Play) <https://ftc-docs.firstinspires.org/en/latest/programming_resources/vision/tensorflow_pp_2022/tensorflow_pp_2022.html>`_
+* `FTC Docs - TensorFlow for POWERPLAY <https://ftc-docs.firstinspires.org/en/latest/programming_resources/vision/tensorflow_pp_2022/tensorflow_pp_2022.html>`_
 
-  * Official information from FTC about TensorFlow for the 2022-2023 PowerPlay season.
+  * Official information from FTC about TensorFlow for the 2022-2023 POWERPLAY season.
 
-* `Machine Learning Toolchain (FTC-ML) <https://ftc-docs.firstinspires.org/en/latest/ftc_ml/index.html>`_
+* `FTC Docs - Machine Learning Toolchain (FTC-ML) <https://ftc-docs.firstinspires.org/en/latest/ftc_ml/index.html>`_
 
   * Official information from FTC about the FTC-ML, which is used to create custom TensorFlow models.
 
@@ -216,7 +216,7 @@ Camera Controls
 
 Cameras usually include various controls, such as gain and exposure. The resources below include information on how to use these controls.
 
-* `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/apriltag/vision_portal/visionportal_camera_controls/visionportal-camera-controls.html>`_
+* `FTC Docs - VisionPortal Camera Controls <https://ftc-docs.firstinspires.org/en/latest/apriltag/vision_portal/visionportal_camera_controls/visionportal-camera-controls.html>`_
 
   * Official information from FTC about camera controls.
 
@@ -233,11 +233,11 @@ GitHub
 
 GitHub is a website for storing and managing projects using Git, an industry standard version control tool.
 
-* `FTC Docs <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/fork_and_clone_github_repository/Fork-and-Clone-From-GitHub.html>`_
+* `FTC Docs - Fork and Clone from GitHub <https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/android_studio/fork_and_clone_github_repository/Fork-and-Clone-From-GitHub.html>`_
 
   * Official GitHub tutorial from FTC.
 
-* `GitHub for FTC <https://docs.google.com/presentation/d/11RdAygfw98YmKc6gS-EA5yM0k_ny_Q1GNnq1rbWOgJo/edit?usp=sharing>`_
+* `GitHub for FTC Presentation <https://docs.google.com/presentation/d/11RdAygfw98YmKc6gS-EA5yM0k_ny_Q1GNnq1rbWOgJo/edit?usp=sharing>`_
 
   * Presentation by Dryw Wade on how to use GitHub, tailored towards FTC teams.
 
@@ -255,15 +255,15 @@ Odometry, Control Theory, and Motion Planning
 
 `Odometry <https://en.wikipedia.org/wiki/Odometry>`_ is using sensor data to estimate the location of a robot. `Control theory <https://en.wikipedia.org/wiki/Control_theory>`_ is using motors and other actuators to control the location of a robot. `Motion planning <https://en.wikipedia.org/wiki/Motion_planning>`_ is generating a path for a robot to follow. These 3 concepts are often used together to navigate a robot through the field.
 
-* `Game Manual Zero (Odometry) <https://gm0.org/en/latest/docs/software/concepts/odometry.html>`_
+* `Game Manual Zero - Odometry <https://gm0.org/en/latest/docs/software/concepts/odometry.html>`_
 
   * Information from GM0 about odometry.
 
-* `Game Manual Zero (Control Loops) <hhttps://gm0.org/en/latest/docs/software/concepts/control-loops.html>`_
+* `Game Manual Zero - Control Loops <https://gm0.org/en/latest/docs/software/concepts/control-loops.html>`_
 
   * Information from GM0 about control theory.
 
-* `CTRL ALT FTC (Control Theory) <https://www.ctrlaltftc.com/>`_
+* `CTRL ALT FTC <https://www.ctrlaltftc.com/>`_
 
   * Information from CTRL ALT FTC about control theory.
 
@@ -280,6 +280,6 @@ Power Monitoring
 
 The Rev Control/Expansion Hubs contains several power monitoring features, such as battery voltage and current consumption. The resources below provide information on how to use these features.
 
-* `Westside Robotics <https://github.com/WestsideRobotics/FTC-Power-Monitoring/wiki>`_
+* `Westside Robotics - Power Monitoring <https://github.com/WestsideRobotics/FTC-Power-Monitoring/wiki>`_
 
   * Information from Westside Robotics about power monitoring with the Rev Control/Expansion Hubs.
