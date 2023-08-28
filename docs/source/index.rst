@@ -43,6 +43,5 @@ These link to other pages on this site, each of which contain many resources for
    :maxdepth: 1
    
    hardware
-   control_system
+   electronics
    programming
-   Electrical
