@@ -37,11 +37,11 @@ The links below contain lots of useful information on many topics.
 Resources by Category
 ********************************************************************************
 
-These link to other pages on this site, each of which contain many resources for vairous topics. You can also use the navigation panel on the left!
+These link to other pages on this site, each of which contain many resources for various topics. You can also use the navigation panel on the left!
 
 .. toctree::
    :maxdepth: 1
    
    hardware
-   control_system
+   electronics
    programming
