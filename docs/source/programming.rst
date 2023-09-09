@@ -16,6 +16,10 @@ The resources below each cover a wide range of topics.
 
   * Official programming information from FTC.
 
+* `Game Manual 1 <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/game-manual-part-1-traditional-events.pdf>`_
+
+  * Official rules from Game Manual 1, which outlines the rules regarding robot software in section 7.3.5.
+
 * `FTC SDK Repository <https://github.com/FIRST-Tech-Challenge/FtcRobotController/>`_
 
   * Official repository for the FTC Robot Controller app. Teams using Android Studio should fork this repo for development.
@@ -174,6 +178,10 @@ Cameras may be attached to robots for more advanced sensing capabilities. Genera
 
   * Official information from FTC about vision.
 
+* `Vision Processing with SDK v8.2+ <https://docs.google.com/presentation/d/1KKlYTDN4WyL9vDXlfunLhxbBkZV-hXTvc2ahiO8EnWc/edit?usp=sharing>`_
+
+  * Presentation by Dryw Wade on vision processing with the latest updates for the CENTERSTAGE season.
+
 .. TODO - Add back once updated with latest vision updates: https://github.com/gamemanual0/gm0/issues/370
 .. * `Game Manual Zero <https://gm0.org/en/latest/docs/software/tutorials/vision.html>`_
 
@@ -237,7 +245,7 @@ GitHub is a website for storing and managing projects using Git, an industry sta
 
   * Official GitHub tutorial from FTC.
 
-* `GitHub for FTC Presentation <https://docs.google.com/presentation/d/11RdAygfw98YmKc6gS-EA5yM0k_ny_Q1GNnq1rbWOgJo/edit?usp=sharing>`_
+* `GitHub for FTC <https://docs.google.com/presentation/d/11RdAygfw98YmKc6gS-EA5yM0k_ny_Q1GNnq1rbWOgJo/edit?usp=sharing>`_
 
   * Presentation by Dryw Wade on how to use GitHub, tailored towards FTC teams.
 
