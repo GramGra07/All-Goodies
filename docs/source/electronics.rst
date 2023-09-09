@@ -18,7 +18,7 @@ The resources below each cover a wide range of topics related to electronics and
 
 * `Game Manual 1 <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/game-manual-part-1-traditional-events.pdf>`_
 
-  * Official rules from Game Manul 1, which outlines the rules regarding robot electronics in section 7.3.3, and the Driver Station in 7.3.4.
+  * Official rules from Game Manual 1, which outlines the rules regarding robot electronics in section 7.3.3, the Driver Station in section 7.3.4, and robot software in section 7.3.5.
 
 * `Game Manual Zero <https://gm0.org/en/latest/docs/power-and-electronics/index.html>`_
 
