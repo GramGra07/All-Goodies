@@ -281,7 +281,8 @@ Odometry, Control Theory, and Motion Planning
 
 Optical Tracking
 ********************************************************************************
-New Module thanks to Dryw! For a new range of sensors
+* New Module thanks to Dryw! For a new range of sensors
+
 * `SparkFun Optical Tracking - Thanks Dryw! <https://www.sparkfun.com/products/24904/>`_
 
   * Empowers you to elevate your robot's navigation capabilities with exceptional precision and streamlined integration. This compact, all-in-one sensor leverages the power of the PAA5160E1 chip from PixArt Imaging Inc., delivering accurate dual-axis motion data across various hard floor surfaces. But that's not all! This sensor boasts a powerful built-in 6-axis Inertial Measurement Unit (IMU) and an onboard microcontroller that performs real-time sensor fusion and tracking algorithms
