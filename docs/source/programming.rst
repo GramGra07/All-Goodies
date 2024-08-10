@@ -186,6 +186,11 @@ Cameras may be attached to robots for more advanced sensing capabilities. Genera
 
   * Presentation by Dryw Wade on vision processing with the latest updates for the CENTERSTAGE season.
 
+* `LimeLight! <https://limelightvision.io/>`_
+  
+  * Limelight is a plug-and-play smart camera purpose-built for the FIRST. No experience is required - Limelight is easy enough for teams with no vision experience or expert mentors, and powerful enough for experienced teams who need a reliable, competition-ready vision solution.
+
+
 .. TODO - Add back once updated with latest vision updates: https://github.com/gamemanual0/gm0/issues/370
 .. * `Game Manual Zero <https://gm0.org/en/latest/docs/software/tutorials/vision.html>`_
 
@@ -209,19 +214,6 @@ OpenCV
 
 .. TODO - check whether this is still relevant
 .. * `SkyStone Guide <https://gist.github.com/oakrc/12a7b5223df0cb55d7c1288ce96a6ab7>`_
-
-TensorFlow
-================================================================================
-
-`TensorFlow <https://www.tensorflow.org/lite/>`_ is a software library that uses machine learning to identify objects and patterns in images.
-
-* `FTC Docs - TensorFlow for POWERPLAY <https://ftc-docs.firstinspires.org/en/latest/programming_resources/vision/tensorflow_pp_2022/tensorflow_pp_2022.html>`_
-
-  * Official information from FTC about TensorFlow for the 2022-2023 POWERPLAY season.
-
-* `FTC Docs - Machine Learning Toolchain (FTC-ML) <https://ftc-docs.firstinspires.org/en/latest/ftc_ml/index.html>`_
-
-  * Official information from FTC about the FTC-ML, which is used to create custom TensorFlow models.
 
 Camera Controls
 ================================================================================
@@ -287,13 +279,12 @@ Odometry, Control Theory, and Motion Planning
 
   * A software library created by ACME Robotics for FTC teams that implements odometry, control theory, and motion planning all in one package. It is typically used for navigation around the field during autonomous.
 
+Optical Tracking
+********************************************************************************
+New Module thanks to Dryw! For a new range of sensors
 * `SparkFun Optical Tracking - Thanks Dryw! <https://www.sparkfun.com/products/24904/>`_
 
   * Empowers you to elevate your robot's navigation capabilities with exceptional precision and streamlined integration. This compact, all-in-one sensor leverages the power of the PAA5160E1 chip from PixArt Imaging Inc., delivering accurate dual-axis motion data across various hard floor surfaces. But that's not all! This sensor boasts a powerful built-in 6-axis Inertial Measurement Unit (IMU) and an onboard microcontroller that performs real-time sensor fusion and tracking algorithms
-
-* `LimeLight! <https://limelightvision.io/>`_
-  
-  * Limelight is a plug-and-play smart camera purpose-built for the FIRST. No experience is required - Limelight is easy enough for teams with no vision experience or expert mentors, and powerful enough for experienced teams who need a reliable, competition-ready vision solution.
 
 Power Monitoring
 ================================================================================
