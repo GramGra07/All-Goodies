@@ -16,10 +16,6 @@ The resources below each cover a wide range of topics.
 
   * Official programming information from FTC.
 
-* `Game Manual 1 <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/game-manual-part-1-traditional-events.pdf>`_
-
-  * Official rules from Game Manual 1, which outlines the rules regarding robot software in section 7.3.5.
-
 * `FTC SDK Repository <https://github.com/FIRST-Tech-Challenge/FtcRobotController/>`_
 
   * Official repository for the FTC Robot Controller app. Teams using Android Studio should fork this repo for development.
@@ -31,6 +27,14 @@ The resources below each cover a wide range of topics.
 * `Westside Robotics <https://github.com/WestsideRobotics?tab=repositories>`_
 
   * Information on various programming topics, which are split into separate repositories. Click the Wiki tab in each repo for the information.
+
+* `Code Training Module - Graden <https://gentrified-apps.gitbook.io/whs-ftc-code_training_module>`_ 
+  
+  * A great way built by our own Graden to teach teams how to get started on Android Studio! 
+
+* `FTC Simulator - <https://ftcsim.org/>`_ 
+
+  * FTC simulator to be able to learn and test and drive code! Amazing resource 
 
 .. TODO - Are these relevant to include in this section?
 .. * `ACME Robotics <https://github.com/acmerobotics>`_
