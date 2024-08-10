@@ -12,10 +12,6 @@ General Resources
 
 The resources below each cover a wide range of topics related to hardware and building robots.
 
-* `Game Manual 1 <https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/game-manual-part-1-traditional-events.pdf>`_
-
-  * Official rules from Game Manual 1, which outlines the rules regarding robot hardware in section 7.3.1, parts and materials rules in section 7.3.2, and team game elements in section 7.4 and 7.5.
-
 * `Game Manual Zero <https://gm0.org/en/latest/index.html>`_
 
   * Hardware information from GM0.
