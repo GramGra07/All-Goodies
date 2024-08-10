@@ -288,7 +288,7 @@ Optical Tracking
   * Empowers you to elevate your robot's navigation capabilities with exceptional precision and streamlined integration. This compact, all-in-one sensor leverages the power of the PAA5160E1 chip from PixArt Imaging Inc., delivering accurate dual-axis motion data across various hard floor surfaces. But that's not all! This sensor boasts a powerful built-in 6-axis Inertial Measurement Unit (IMU) and an onboard microcontroller that performs real-time sensor fusion and tracking algorithms
 
 Power Monitoring
-================================================================================
+********************************************************************************
 
 The Rev Control/Expansion Hubs contains several power monitoring features, such as battery voltage and current consumption. The resources below provide information on how to use these features.
 
