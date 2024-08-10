@@ -25,14 +25,17 @@ GrabCAD library!
 ********************************************************************************
 This is a growing collection of over 400 CAD Files from 6 FTC vendors, with all files named and organized to simply your workflow. With one download, many of you won't have to worry about downloading parts for the rest of the season! The library is now available to the FTC community through our GrabCAD page accessible here.
 
-* `GrabCAD Library <https://workbench.grabcad.com/workbench/projects/gcpgZgLBwhIdL0FfUKJJfM75cqa9RW1ncXaL-lQ4KOl1wa#/space/gcSzacmSeI-l19BYQNPm422pSHLenRxOxVtmaD-Pzynwsq>`_
-  
+* `GrabCAD Library <https://grabcad.com/library/ftc-2023-24-1>`_
   * GrabCAD
 
 FTC Onshape Resources
 ********************************************************************************
 
 Onshape is an amazing tool to CAD your robot or different parts of your robot. 
+
+* `Onboarding your team to Onshape <https://www.onshape.com/en/blog/how-to-onboard-your-first-robotics-team>`_
+
+  * Onboard your team to Onshape specifically set up for FIRST. 
 
 * `OnShape - Learning resource <https://learn.onshape.com/learn/learning-path/cad-for-robotics>`_
   
@@ -41,14 +44,6 @@ Onshape is an amazing tool to CAD your robot or different parts of your robot.
 * `Kit of parts maintained by FTC Teams this will have assemblies <https://ftconshape.com/>`_
 
   * FTC Kit of parts and general resources
-
-* `Onboarding your team to Onshape <https://www.onshape.com/en/blog/how-to-onboard-your-first-robotics-team>`_
-
-  * Onboard your team to Onshape specifically set up for FIRST. 
-
-* `Onboarding your team to Onshape <https://www.onshape.com/en/blog/how-to-onboard-your-first-robotics-team>`_
-
-  * Onboard your team to Onshape specifically set up for FIRST. 
 
 
 FTC Blender Resources
