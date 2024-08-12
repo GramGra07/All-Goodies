@@ -33,6 +33,26 @@ Below is a list of popular vendors that sell parts specifically for FTC teams. T
 
   * Add description
 
+* `Studica <https://www.studica.com/>`_
+
+  * Add description
+
+* `ServoCity <https://www.servocity.com/>`_
+
+  * Add description
+
+* `Andymark <https://www.andymark.com/>`_
+
+  * Add description
+
+* `McMASTER <https://www.mcmaster.com/>`_
+
+  * Add description
+
+* `RobotShop <https://www.robotshop.com/>`_
+
+  * Add description
+
 Build Guides
 ********************************************************************************
 

@@ -36,10 +36,9 @@ The resources below each cover a wide range of topics.
 
   * FTC simulator to be able to learn and test and drive code! Amazing resource 
 
-.. TODO - Are these relevant to include in this section?
-.. * `ACME Robotics <https://github.com/acmerobotics>`_
+* `ACME Robotics <https://github.com/acmerobotics>`_
 
-..   * FTC Team #8367, who have created a number of tools and resources for FTC teams.
+   * FTC Team #8367, who have created a number of tools and resources for FTC teams.
 
 .. * `OpenFTC <https://github.com/OpenFTC>`_
 
@@ -159,6 +158,21 @@ Inertial measurement units (IMU) are sensors that measure motion. They typically
 
   * Official information from FTC about IMUs.
 
+Optical Tracking
+================================================================================
+* New Module thanks to Dryw! For a new range of sensors
+
+* `SparkFun Optical Tracking - Thanks Dryw! <https://www.sparkfun.com/products/24904/>`_
+
+  * Empowers you to elevate your robot's navigation capabilities with exceptional precision and streamlined integration. This compact, all-in-one sensor leverages the power of the PAA5160E1 chip from PixArt Imaging Inc., delivering accurate dual-axis motion data across various hard floor surfaces. But that's not all! This sensor boasts a powerful built-in 6-axis Inertial Measurement Unit (IMU) and an onboard microcontroller that performs real-time sensor fusion and tracking algorithms
+
+LimeLight
+================================================================================
+
+* `LimeLight! <https://limelightvision.io/>`_
+  
+  * Limelight is a plug-and-play smart camera purpose-built for the FIRST. No experience is required - Limelight is easy enough for teams with no vision experience or expert mentors, and powerful enough for experienced teams who need a reliable, competition-ready vision solution.
+
 .. TODO - Find resources for these
 .. Touch Sensors and Switches
 .. ================================================================================
@@ -176,7 +190,7 @@ Vision
 Cameras may be attached to robots for more advanced sensing capabilities. General vision resources are linked below, followed by resources for specific vision  tools.
 
 .. warning:: 
-  The 2024-2025 season has a lot of changes to vision! It appears that Vuforia and TensorFlow has been removed, and is effectively replaced by EasyOpenCV and AprilTags. The resources below all contain current information, but other resources you find may be outdated or incorrect!
+  The 2024-2025 season has a lot of changes to vision! It appears that Vuforia and TensorFlow have been removed, and is effectively replaced by EasyOpenCV and AprilTags. The resources below all contain current information, but other resources you find may be outdated or incorrect!
 
 * `FTC Docs - VisionPortal Overview <https://ftc-docs.firstinspires.org/en/latest/apriltag/vision_portal/visionportal_overview/visionportal-overview.html>`_
 
@@ -185,11 +199,6 @@ Cameras may be attached to robots for more advanced sensing capabilities. Genera
 * `Vision Processing with SDK v8.2+ <https://docs.google.com/presentation/d/1KKlYTDN4WyL9vDXlfunLhxbBkZV-hXTvc2ahiO8EnWc/edit?usp=sharing>`_
 
   * Presentation by Dryw Wade on vision processing with the latest updates for the CENTERSTAGE season.
-
-* `LimeLight! <https://limelightvision.io/>`_
-  
-  * Limelight is a plug-and-play smart camera purpose-built for the FIRST. No experience is required - Limelight is easy enough for teams with no vision experience or expert mentors, and powerful enough for experienced teams who need a reliable, competition-ready vision solution.
-
 
 .. TODO - Add back once updated with latest vision updates: https://github.com/gamemanual0/gm0/issues/370
 .. * `Game Manual Zero <https://gm0.org/en/latest/docs/software/tutorials/vision.html>`_
@@ -278,14 +287,6 @@ Odometry, Control Theory, and Motion Planning
 * `Road Runner <https://learnroadrunner.com/>`_
 
   * A software library created by ACME Robotics for FTC teams that implements odometry, control theory, and motion planning all in one package. It is typically used for navigation around the field during autonomous.
-
-Optical Tracking
-********************************************************************************
-* New Module thanks to Dryw! For a new range of sensors
-
-* `SparkFun Optical Tracking - Thanks Dryw! <https://www.sparkfun.com/products/24904/>`_
-
-  * Empowers you to elevate your robot's navigation capabilities with exceptional precision and streamlined integration. This compact, all-in-one sensor leverages the power of the PAA5160E1 chip from PixArt Imaging Inc., delivering accurate dual-axis motion data across various hard floor surfaces. But that's not all! This sensor boasts a powerful built-in 6-axis Inertial Measurement Unit (IMU) and an onboard microcontroller that performs real-time sensor fusion and tracking algorithms
 
 Power Monitoring
 ********************************************************************************
