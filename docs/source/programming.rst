@@ -28,7 +28,7 @@ The resources below each cover a wide range of topics.
 
   * Information on various programming topics, which are split into separate repositories. Click the Wiki tab in each repo for the information.
 
-* `Code Training Module - Graden <https://gentrified-apps.gitbook.io/whs-ftc-code_training_module>`_ 
+* `Code Training Module - Graden <https://gramgra07.github.io/WHS-FTC-Code_Training_Module/>`_ 
   
   * A great way built by our own Graden to teach teams how to get started on Android Studio! 
 
